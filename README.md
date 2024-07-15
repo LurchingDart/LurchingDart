@@ -2,14 +2,7 @@
 
 I am LurchingDart
 
-🔭 I’m currently working on updating my readme.
-
-Also, I am working on a few projects, you can check them out in my repositories.
-
-The projects are:
-
-- [**EncryptCaesar**](https://github.com/LurchingDart/EncryptCaesar) - A simple Caesar cipher encryption and decryption tool with some extra features.
-- [**DataScouty**](https://github.com/LurchingDart/DataScouty) - A simple tool to scrape data from the courses platform of Platzi to make notes in Notion a lot easier.
+🔭 I’m currently working on the Admission System of my University 🏫
 <!--
 **LurchingDart/LurchingDart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
