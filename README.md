@@ -3,6 +3,7 @@
 I am LurchingDart
 
 🔭 I’m currently working on the Admission System of my University 🏫
+and looking for some free time to set my readme properly 😿
 <!--
 **LurchingDart/LurchingDart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
